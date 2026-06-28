@@ -1,0 +1,86 @@
+canonical_identifier: bkk:krp/KR1a0050/v1
+canonical_location: https://kanripo.org/bkk/KR1a0050/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 丙子學易編
+  date: '2015-08-24 21:55:29.133195'
+  source:
+    repository: kanripo
+    path: KR1a0050
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR1a0050_000.yaml, hash: 'sha256:2342af0a568c4e0b1fa15b51fbae4337900038f6871f149ca413dd6a66ed73c7'}
+  - {seq: 1, filename: KR1a0050_001.yaml, hash: 'sha256:e9c65a9dc5c17a02b4706db686d8cfb6fba1dfae2b653647b5f539e46452d5e8'}
+  - {seq: 2, filename: KR1a0050_002.yaml, hash: 'sha256:35132782eb966295983b23babeff8254f61fc6d7acf8de287f7c154e8dc57af8'}
+  - {seq: 3, filename: KR1a0050_003.yaml, hash: 'sha256:3d586853ed79611955da10a7777b5df8992d319570363e979a0332060afc38d2'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR1a0050_000.markers.yaml, hash: 'sha256:57a345b618b9d26072fb4e96909e2ae17518d80a3f049aa77362c2890cded962'}
+  - {seq: 1, role: markers, filename: assets/KR1a0050_001.markers.yaml, hash: 'sha256:c621641735f168fd0e59f6b8c4c3b61624fdd967326674e50bd713808247d3f9'}
+  - {seq: 2, role: markers, filename: assets/KR1a0050_002.markers.yaml, hash: 'sha256:2918523ca49b385a5969898d6b0e4072745805d7977729795fb7a7775aa5b740'}
+  - {seq: 3, role: markers, filename: assets/KR1a0050_003.markers.yaml, hash: 'sha256:1f1c2cd27f3b7f4bba8575f9190516a5d456be7ed6e63aa38de3638662a6ee9f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR1a0050_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 543
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR1a0050_WYG_000-4a
+    span:
+    - body
+    - 543
+    - 886
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR1a0050_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 8379
+  label: 丙子學易編
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR1a0050_WYG_002-1a
+    span:
+    - body
+    - 0
+    - 742
+  label: 後序
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR1a0050_WYG_003-1a
+    span:
+    - body
+    - 0
+    - 117
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:274dcc62dd71a8f84cb9d9ad63e4a8a94060681ab0e6e1b6029609e1621d6300
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
