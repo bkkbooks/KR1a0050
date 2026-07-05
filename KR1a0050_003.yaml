@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 丙子學易編跋此書係借聞德坊周家書肆所鬻者天寒日短老眼昏花併日而抄其可取者故不能端楷秀巖乃隆山之子其書取王弼張橫渠程伊川郭子和朱晦菴而求其是又以其父隆山之說證之或又附以已見中間盡有可取泰定元年嵗在甲子十一月十八日石澗老人俞琰書于梅齊西孰
-  hash: sha256:250860538ce3f3b04dda2b19e8aa1c1dfa5a1265f01e5e0bd3f44b5c90e5d970
+  text: 丙子學易編跋此書係借聞徳坊周家書肆所鬻者天寒日短老眼昏花併日而抄其可取者故不能端楷秀巖乃隆山之子其書取王弼張横渠程伊川郭子和朱晦菴而求其是又以其父隆山之説證之或又附以已見中間盡有可取泰定元年嵗在甲子十一月十八日石澗老人俞琰書扵梅齋西塾
+  hash: sha256:91aa5139dc9267fb11b3553b2dd501fd762b77d80dc35f1e06cbd85d551e149d
   markers:
   - {type: page-break, offset: 0, content: '', id: KR1a0050_WYG_003-1a, image: WYG0017/WYG0017-0796a.png}
 metadata:
@@ -18,4 +18,4 @@ metadata:
   source:
     repository: kanripo
     path: KR1a0050/KR1a0050_003.txt
-hash: sha256:3d586853ed79611955da10a7777b5df8992d319570363e979a0332060afc38d2
+hash: sha256:02bf0140e22c4cde46f37370688dec8bd0dda607ea69cae3c4e9b68725e01324
